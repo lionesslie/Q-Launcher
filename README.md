@@ -54,21 +54,6 @@ QLauncher is a modern, lightweight, and custom Minecraft Launcher built with Pyt
     python main.py
     ```
 
-### Building Executable (Windows)
-
-To build a standalone `.exe`:
-
-1.  Ensure you have established the virtual environment and installed dependencies.
-2.  Install `PyInstaller`:
-    ```bash
-    pip install pyinstaller
-    ```
-3.  Run the build script:
-    ```cmd
-    build_qlauncher.bat
-    ```
-4.  The executable will be in `dist/QLauncher/QLauncher.exe`.
-
 ## Dependencies
 
 - [PyQt5](https://pypi.org/project/PyQt5/) - GUI Framework
@@ -83,3 +68,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is open-source.
+

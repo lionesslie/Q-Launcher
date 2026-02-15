@@ -3,6 +3,7 @@
 QLauncher is a modern, lightweight, and custom Minecraft Launcher built with Python and PyQt5. It features a sleek dark UI, integrated mod management via Modrinth, and support for Vanilla, Fabric, and Forge modloaders.
 
 ![QLauncher Screenshot](assets/app_icon.ico)
+![QLauncher Screenshot](images/preview.png)
 
 ## Features
 
@@ -68,4 +69,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is open-source.
+
 
